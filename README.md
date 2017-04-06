@@ -1,6 +1,6 @@
-#spring-boot-starter-druid
+spring-boot-starter-druid
 
-#配置示例
+配置示例
 ```
 #DRUID
 druid:
